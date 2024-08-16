@@ -1,0 +1,8 @@
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+#principal_message-container{
+    background-color: #f8f8f8;
+  }
